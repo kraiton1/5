@@ -835,54 +835,6 @@ section.lazy-placeholder:after {
 .cid-rWARTNJtgy .card-img {
   color: #fcff03;
 }
-.cid-rWB5baOqYo {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background-color: #e9ff6a;
-}
-.cid-rWB5baOqYo .mbr-section-subtitle {
-  color: #058f06;
-}
-.cid-rWB5baOqYo .formoid {
-  margin: auto;
-}
-.cid-rWB5baOqYo .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rWB5baOqYo .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rWB5baOqYo a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rWB5baOqYo a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rWB5baOqYo .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rWB5baOqYo .form-group,
-  .cid-rWB5baOqYo .input-group-btn,
-  .cid-rWB5baOqYo .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rWB5baOqYo .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
-.cid-rWB5baOqYo H2 {
-  color: #ff0909;
-}
 .cid-rWBoVWXQOx {
   padding-top: 30px;
   padding-bottom: 30px;
