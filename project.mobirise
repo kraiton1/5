@@ -61,6 +61,12 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n",
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://kraiton1.github.io/5/5.html",
+    "uniqCompNum": 9,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -73,18 +79,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://kraiton1.github.io/5/5.html",
-    "uniqCompNum": 9,
-    "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "gdpr": false
   },
   "pages": {
     "5.html": {
