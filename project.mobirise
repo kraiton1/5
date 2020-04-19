@@ -79,9 +79,9 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://kraiton1.github.io/5/5.html",
     "uniqCompNum": 9,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
